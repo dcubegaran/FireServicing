@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799590215196",
+    "project_id": "fire-shield-a4492",
+    "storage_bucket": "fire-shield-a4492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799590215196:android:1d3c7a4d29eac4bd6139d9",
+        "android_client_info": {
+          "package_name": "com.awesomeproject123"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOv8raVrRUrBFU1Kefu5sbNelvAPD_vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
